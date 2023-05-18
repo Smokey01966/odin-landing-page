@@ -127,15 +127,15 @@ a.button.hero{
 .services{
     margin: 5vw 20vw;
     margin-top: 0;
-    justify-content: stretch;
 }
 
 a.service{
     margin: 1vw;
-    width: 10vw;
     text-align: center;
     color: #1f2937;
+    width: 10vw;
     font-size: .95vw /*18px*/;
+
 }
 
 img.service{
