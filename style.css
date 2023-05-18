@@ -127,6 +127,7 @@ a.button.hero{
 .services{
     margin: 5vw 20vw;
     margin-top: 0;
+    justify-content: stretch;
 }
 
 a.service{
