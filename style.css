@@ -27,6 +27,10 @@ a.no-dec{
     text-decoration: none;
 }
 
+ul.no-dec{
+    list-style: none;
+}
+
 a.button{
     border-radius: .5vw;
     width: fit-content;
@@ -50,6 +54,13 @@ body{
 .body{
     background-color: white;
     color: #1f2937;
+}
+
+.footer{
+    text-align: center;
+    color: #f9faf8;
+    font-size: .95vw /*18px*/;
+    padding: 1vw 0;
 }
 
 /* Hero Specific */
@@ -177,4 +188,10 @@ img.service{
     font-size: .95vw /*18px*/;
     font-weight: 800;
 
+}
+
+/* Footer Specific */
+
+a.footer{
+    color: #f9faf8;
 }
